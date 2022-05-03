@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55161319954",
+    "project_id": "pvsquare-38db7",
+    "storage_bucket": "pvsquare-38db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55161319954:android:782876b5c81800d6089ecb",
+        "android_client_info": {
+          "package_name": "com.pvsquare.pvsquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55161319954-04ol3g78tvi7qdgk3qeik429pqqe8ht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlRqhF3kgdJYtSwT2_wq2ZAkheiLt6Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55161319954-04ol3g78tvi7qdgk3qeik429pqqe8ht0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
